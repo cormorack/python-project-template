@@ -1,2 +1,3 @@
 # python-project-template
-A CAVA template for a developing a python project 
+
+A CAVA template for a developing a python project.
